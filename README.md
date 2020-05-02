@@ -1,9 +1,5 @@
 # Bate-Papo
 
-Bate-Papo desenvolvido para a disciplina de Redes de Computadores na Universidade Federal de Pelotas. Funciona em rede local com o uso de sockets
-O trabalho foi implementado na estrutura cliente-servidor.
-O código foi desenvolvido na linguagem Python, versão 3.
-
 #Inicialização do bate-papo:
 
 Para inicializar o bate-papo é necessário primeiramente abrir o servidor, e após isso abrir um ou mais clientes.
